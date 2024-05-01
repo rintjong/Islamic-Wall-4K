@@ -1,0 +1,463 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "main_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "backup_ads_natives":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": " Cool Aesthetic Wallpaper ",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Super HD 4K Wallpapers ",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Dreams Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		},
+	       {
+			"id": 4,
+			"title": "Navy Seal Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		}
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Islamic",
+      "image": "https://i.pinimg.com/564x/ec/c0/8b/ecc08b2daadbb88b098310b1eaa144f5.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/99/f4/96/99f4967c6c9b0dbb093978766cc597fe.jpg",
+      "lock":false
+    },
+	{
+      "id":2,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/cf/0d/24/cf0d24a0f4c552ae09755b176569d3a5.jpg",
+      "lock":false
+    },
+	{
+      "id":3,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/9f/9c/7c/9f9c7c20b3ce112c6b6838cc8f046de7.jpg",
+      "lock":false
+    },
+	{
+      "id":4,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/53/f4/90/53f4903a066ea1c190f113bafb751b4d.jpg",
+      "lock":false
+    },
+	{
+      "id":5,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/b4/7d/40/b47d402f335c6aaa195211aa3f53f493.jpg",
+      "lock":false
+    },
+	{
+      "id":6,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/e7/c5/de/e7c5de95f10c6fda92908cfe2ee5e5ba.jpg",
+      "lock":false
+    },
+	{
+      "id":7,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/2c/5a/b1/2c5ab1b0a4d1394eaee0815a0254daab.jpg",
+      "lock":false
+    },
+	{
+      "id":8,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/90/a7/84/90a7848ab8552b4e412f5b6951e535d9.jpg",
+      "lock":false
+    },
+	{
+      "id":9,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/1a/9e/05/1a9e05edb2ebbd67436155e0586a71f5.jpg",
+      "lock":false
+    },
+	{
+      "id":10,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/a8/e4/cd/a8e4cdd20e56e7db13a028e1b242227e.jpg",
+      "lock":false
+    },
+	{
+      "id":11,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/8c/20/79/8c2079c97c5ea28bac76dfbaecb4a9d2.jpg",
+      "lock":false
+    },
+	{
+      "id":12,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/bc/37/74/bc3774185d737d3ec66d7772581bc902.jpg",
+      "lock":false
+    },
+	{
+      "id":13,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/58/bf/64/58bf6442c24325005e2df5439e48ed2f.jpg",
+      "lock":false
+    },
+	{
+      "id":14,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/bb/d1/0d/bbd10d2193f0e3baef464187631fb83e.jpg",
+      "lock":false
+    },
+	{
+      "id":15,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/cb/88/f0/cb88f0c309d37357da5f050cd2c4eefe.jpg",
+      "lock":false
+    },
+	{
+      "id":16,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/b5/18/cb/b518cb6d73d3e981bea894d51e26ba53.jpg",
+      "lock":false
+    },
+	{
+      "id":17,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/a3/71/5f/a3715f7bd47dabe72e8cdf804ba49e9e.jpg",
+      "lock":false
+    },
+	{
+      "id":18,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/31/83/99/31839919f9c7ad7dc42e7cf40e42f0ca.jpg",
+      "lock":false
+    },
+	{
+      "id":19,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/b5/48/7e/b5487ef8822daf5edd8bbf9f147d73a6.jpg",
+      "lock":false
+    },
+	{
+      "id":20,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/31/a0/7d/31a07d5a68ec3db494e4c79a22d31b84.jpg",
+      "lock":false
+    },
+	{
+      "id":21,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/d0/c6/13/d0c613fd17dfd965989da8b06aa31ded.jpg",
+      "lock":false
+    },
+	{
+      "id":22,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/36/20/26/36202695bc87355ebc4f0b1ee304a2c6.jpg",
+      "lock":false
+    },
+	{
+      "id":23,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/43/82/8a/43828a65a30985b91cebb804786af8e1.jpg",
+      "lock":false
+    },
+	{
+      "id":24,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/1f/2f/6d/1f2f6ded09a7d453757552bad7066109.jpg",
+      "lock":false
+    },
+	{
+      "id":25,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/ab/73/04/ab73044280138ba1a899c4a136ef05ac.jpg",
+      "lock":false
+    },
+	{
+      "id":26,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/95/f0/0b/95f00bd47af13b9094fcfc22890dedd3.jpg",
+      "lock":false
+    },
+	{
+      "id":27,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/2d/a4/cd/2da4cd3b33442f3fe4a2c48965262c06.jpg",
+      "lock":false
+    },
+	{
+      "id":28,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/bc/9c/f1/bc9cf1d5f265bbd4493f37a0f434f790.jpg",
+      "lock":false
+    },
+	{
+      "id":29,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/8c/47/5e/8c475e3f27df700cb8bba038b1e10c7b.jpg",
+      "lock":false
+    },
+	{
+      "id":30,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/7f/a0/c4/7fa0c4aa60588acc50d50e7583ffd559.jpg",
+      "lock":false
+    },
+	{
+      "id":31,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/27/91/1d/27911de736241707efcc97cb78c81ac2.jpg",
+      "lock":false
+    },
+	{
+      "id":32,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/30/12/59/301259c8f11f1e385fb74cd859b20a1d.jpg",
+      "lock":false
+    },
+	{
+      "id":33,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/37/71/1b/37711b5f37544837caf1037a226be709.jpg",
+      "lock":false
+    },
+	{
+      "id":34,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/81/11/bd/8111bdd6d3ccf2ba432b20b03eda7e7c.jpg",
+      "lock":false
+    },
+	{
+      "id":35,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/10/0f/50/100f50d72f259c6a442f59f2e21da210.jpg",
+      "lock":false
+    },
+	{
+      "id":36,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/81/e8/75/81e8758663afbfe97d747905ad7b9f67.jpg",
+      "lock":false
+    },
+	{
+      "id":37,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/f3/42/35/f34235addbd47f9cfc2b9282d127a369.jpg",
+      "lock":false
+    },
+	{
+      "id":38,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/73/7a/e9/737ae97cd0f93e0ff3a1fd93825ea7fc.jpg",
+      "lock":false
+    },
+	{
+      "id":39,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/1c/a6/32/1ca6325283a4dde501447020df882dc1.jpg",
+      "lock":false
+    },
+	{
+      "id":40,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/ac/44/40/ac44401d216fe6f00b82b9d36b4b6756.jpg",
+      "lock":false
+    },
+	{
+      "id":41,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/f2/0c/7c/f20c7cf948023e980bff8ca745f88205.jpg",
+      "lock":false
+    },
+	{
+      "id":42,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/4d/df/4a/4ddf4aa5b820ccf5a453eee2ef5dbccf.jpg",
+      "lock":false
+    },
+	{
+      "id":43,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/96/b2/88/96b288004fa416a111abe7ef0339ff59.jpg",
+      "lock":false
+    },
+	{
+      "id":44,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/a4/94/79/a4947973a757baa229e7e62a522e378f.jpg",
+      "lock":false
+    },
+	{
+      "id":45,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/71/35/09/713509d5ded395a304016491c851b84d.jpg",
+      "lock":false
+    },
+	{
+      "id":46,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/db/09/ce/db09ce6bb80c4bf45bf46ee855e316b6.jpg",
+      "lock":false
+    },
+	{
+      "id":47,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/31/a0/36/31a0364545adb76ba8d8c8911caf705d.jpg",
+      "lock":false
+    },
+	{
+      "id":48,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/51/ba/6d/51ba6db718db9d871dd1c905ced34d98.jpg",
+      "lock":false
+    },
+	{
+      "id":49,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/c7/aa/f1/c7aaf131cdbe6abe1a069f7b6b92e68d.jpg",
+      "lock":false
+    },
+	{
+      "id":50,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/a0/c9/99/a0c9991c7a338e0fdca1b42fc1dc6d88.jpg",
+      "lock":false
+    },
+	{
+      "id":51,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/ec/c0/8b/ecc08b2daadbb88b098310b1eaa144f5.jpg",
+      "lock":false
+    },
+	{
+      "id":52,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/68/9a/3c/689a3cb80bb82c1b432d91f15f6aae78.jpg",
+      "lock":false
+    },
+	{
+      "id":53,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/564x/f6/aa/ef/f6aaefe093918e9ba24228b6165bebf2.jpg",
+      "lock":false
+    },
+	{
+      "id":54,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/0e/3f/41/0e3f410a95ee58d88fa3bb87a4d9b16a.jpg",
+      "lock":false
+    },
+	{
+      "id":55,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/35/b8/8a/35b88ac824727fa6f0e8d2f65df322bb.jpg",
+      "lock":false
+    },
+	{
+      "id":56,
+      "name_category": "Islamic",
+      "title":"Islamic",
+      "image":"https://i.pinimg.com/736x/28/45/f4/2845f4fa07525d508e6d506e57377c1c.jpg",
+      "lock":false
+    }
+    
+  ]
+}
